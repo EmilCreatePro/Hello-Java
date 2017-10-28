@@ -1,0 +1,27 @@
+
+Prima matrice este: 
+
+1 2 
+
+3 4 
+
+5 6 
+
+
+A doua matrice este: 
+
+5 6 
+
+2 3 
+
+6 7 
+
+
+Rezultatul adunarii celor 2 matrici este: 
+
+6 8 
+
+5 7 
+
+11 13 
+
